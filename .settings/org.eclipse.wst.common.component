@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="gitEclipse">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="gitEclipse"/>
         <property name="java-output-path" value="/gitEclipse/build/classes"/>
+=======
+    <wb-module deploy-name="LoginWeb">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="LoginWeb"/>
+        <property name="java-output-path" value="/LoginWeb/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/Iuryns/integra-o_eclipse_git.git
     </wb-module>
 </project-modules>
